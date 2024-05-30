@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BasedeDatosApplication<BasedeDatos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.MicroServicio.BasedeDatos.BasedeDatosApplication",
+            "projectName": "BasedeDatos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
